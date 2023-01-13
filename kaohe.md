@@ -1,4 +1,7 @@
-
+---
+marp: true
+theme: gaia
+---
 # 2023 寒假考核
 
 各位小网管们好，愉快寒假已经开始一段时间了。咱们的寒假考核也如约而至啦。
@@ -44,4 +47,3 @@ https://www.imooc.com/learn/9  初识html和css
 开发工具推荐:[HBuilderx](https://www.dcloud.io/hbuilderx.html)、[Visual](https://code.visualstudio.com/)
 
 git config http.postBuffer 524288000
-
