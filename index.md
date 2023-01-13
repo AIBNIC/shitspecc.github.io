@@ -20,8 +20,6 @@
 
 无需把整个页面做出来，选择该页面的一部分，尽可能对着部分进行1比1还原，按还原度评分，可以仿其他的网站，但重点是仿，最起码要知道仿的是哪个网站
 
-
-
 ### 考核流程
 
 1.遇到困难可自行解决、向师兄师姐请教、与其他成员讨论并解决
@@ -43,9 +41,3 @@ https://www.imooc.com/learn/9  初识html和css
 学习网站推荐：菜鸟网站、慕课网、bilbil视频网站等
 
 开发工具推荐:[HBuilderx](https://www.dcloud.io/hbuilderx.html)、[Visual](https://code.visualstudio.com/)
-
-
-
-
-
-
