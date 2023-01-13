@@ -16,11 +16,11 @@ theme: gaia
 
 网站参考：
 
-1. https://www.runoob.com/js/js-tutorial.html
+1. [https://www.runoob.com/js/js-tutorial.html](https://www.runoob.com/js/js-tutorial.html)
 
-2. https://www.vip.com
+2. [https://www.vip.com](https://www.vip.com)
 
-3. https://www.huawei.com/cn/
+3. [https://www.huawei.com/cn/](https://www.huawei.com/cn/)
 
 无需把整个页面做出来，选择该页面的一部分，尽可能对着部分进行1比1还原，按还原度评分，可以仿其他的网站，但重点是仿，最起码要知道仿的是哪个网站
 
@@ -36,11 +36,11 @@ theme: gaia
 
 #### 学习资料
 
-http://www.w3school.com.cn/html/index.asp  html和css学习手册
+[http://www.w3school.com.cn/html/index.asp](http://www.w3school.com.cn/html/index.asp)  html和css学习手册
 
-http://jquery.cuishifeng.cn/  JQ学习手册
+[http://jquery.cuishifeng.cn/](http://jquery.cuishifeng.cn/)  JQ学习手册
 
-https://www.imooc.com/learn/9  初识html和css
+[https://www.imooc.com/learn/9](https://www.imooc.com/learn/9)  初识html和css
 
 学习网站推荐：菜鸟网站、慕课网、bilbil视频网站等
 
