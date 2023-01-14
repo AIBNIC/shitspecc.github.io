@@ -8,7 +8,6 @@ theme: gaia
 
 考核完成时间为**即日起至 2023 年 2 月 23 日 21:00 截止**。
 
-## 
 
 ## 考核要求
 
@@ -16,7 +15,7 @@ theme: gaia
 
 网站参考：
 
-1. [https](https://www.runoob.com/js/js-tutorial.html)
+1. [https://www.runoob.com/js/js-tutorial.html](https://www.runoob.com/js/js-tutorial.html)
 
 2. [https://www.vip.com](https://www.vip.com)
 
@@ -46,4 +45,4 @@ theme: gaia
 
 开发工具推荐:[HBuilderx](https://www.dcloud.io/hbuilderx.html)、[Visual](https://code.visualstudio.com/)
 
-git config http.postBuffer 524288000
+
